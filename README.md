@@ -8,7 +8,7 @@ Docker 是世界领先的软件容器平台。开发人员利用 Docker 可以�
 
 容器镜像是轻量的、可执行的独立软件包，包含软件运行所需的所有内容：代码、运行时环境、系统工具、系统库和设置。容器化软件适用于基于 Linux 和 Windows 的应用，在任何环境中都能够始终如一地运行。容器赋予了软件独立性，使其免受外在环境差异（例如，开发和预演环境的差异）的影响，从而有助于减少团队间在相同基础设施上运行不同软件时的冲突。
 
-![什么是容器](https://github.com/findsec-cn/docker/raw/master/docs/what_is_a_container.png)
+![什么是容器](https://github.com/findsec-cn/docker/raw/master/imgs/what_is_a_container.png)
 
 ### 轻量
 
