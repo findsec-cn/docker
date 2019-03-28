@@ -22,6 +22,6 @@ Docker 赋予应用的隔离性不仅限于彼此隔离，还独立于底层的�
 
 ## QQ 容器技术学习群
 
-如果你对Docker相关的知识有什么疑问，欢迎扫描下面二维码加入 QQ 群（774607973）进行提问，谢谢！
+如果你对Docker相关技术有什么疑问，欢迎扫描下面二维码加入 QQ 群（774607973）进行提问，谢谢！
 
 ![QQ群](https://github.com/findsec-cn/docker/raw/master/imgs/qq.jpg)
